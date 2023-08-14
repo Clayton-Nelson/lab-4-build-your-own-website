@@ -1,0 +1,47 @@
+.flex-container {
+    display: flex;
+}
+
+article {
+    font-style: normal;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-item-1 {
+    padding: 2em;
+}
+
+.flex-item-2 {
+    padding: 2em;
+}
+
+a {
+    color: black;
+}
+
+.image-size {
+    width: 462px;
+    height: 90px;
+}
+
+.image-size2 {
+    width: 98.5vw;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.button {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 3em;
+    background-color: gray;
+}

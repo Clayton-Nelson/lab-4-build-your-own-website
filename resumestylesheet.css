@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+nav {
+    text-align: center;
+    border: 3px;
+    border-style: solid;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+aside {
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 20%;
+    padding-right: 40px;
+    background-color: rgb(131, 131, 255);
+}
+
+article {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(102, 102, 102);
+
+}
